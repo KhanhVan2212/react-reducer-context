@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Gym Weight",
+      "price": "240.082",
+      "category": "wewqewq",
+      "img": "./assets/img/feature_prod_01.jpg",
+      "desc": "Gym Weight test"
+    },
+    {
+      "id": 2,
+      "name": "Cloud Nike Shoes",
+      "price": "240.08",
+      "desc": "Cloud Nike ShoesCloud Nike ShoesCloud Nike ShoesCloud Nike Shoes",
+      "img": "./assets/img/feature_prod_02.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Summer Addides Shoes",
+      "price": "240.08",
+      "desc": "Cloud Nike Shoes",
+      "img": "./assets/img/feature_prod_03.jpg"
+    },
+    {
+      "id": "2b63bbd4-bdc2-4f21-a517-0c95c7306428",
+      "name": "San pham test",
+      "price": "123",
+      "desc": "tieu de",
+      "category": "vaca",
+      "img": "imggg"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
